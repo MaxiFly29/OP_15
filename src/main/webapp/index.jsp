@@ -12,6 +12,6 @@
         </h2>
         <h3><a href="Sachko_Dm">Сачко Дмитро</a></h3>
         <h3><a href="Sachko_Da">Сачко Данило</a></h3>
-        <h3><a href="Horduz">Гордуз Олександр</a></h3>
+        <h3><a href="horduz-servlet">Гордуз Олександр</a></h3>
     </body>
 </html>
